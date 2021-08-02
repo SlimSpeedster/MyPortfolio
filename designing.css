@@ -1,0 +1,35 @@
+    h2 {
+            color: brown;
+                
+        }
+
+        * {
+            border: transparent;   
+        }
+    p {
+
+        color:rgb(25, 62, 226);
+        
+    }
+
+    .title{
+
+        background-color: rgb(187, 210, 218);
+        display:flex;
+        justify-content: space-between;
+        border: solid;
+        border-color: teal;
+    }
+
+    .games{
+
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+
+    .social_media{
+
+        display: flex;
+
+    }
